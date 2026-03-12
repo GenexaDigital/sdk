@@ -4,7 +4,7 @@
 
 Genexa enables users, liquidity providers, and governance participants to interact with a decentralized credit market where incentives, interest rates, and capital allocation are governed transparently by token holders.
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : DTrc97GLwj79DZQodp8h13Jrm2YXs3V91Ro6RiPhpump
 ---
 
 ## 🌐 Official Links
